@@ -6,9 +6,9 @@
 
 ---
 
-## 🏆 Achievements
-- 🏅 **Appinventiv Scholarship Recipient** (₹55,000/year)  
-- 🌍 **Google Summer of Code 2025** (GirlScript) – Open Source Contributor  
+## 🏆 Achievements 
+- 🌍 **Google Summer of Code 2025** (GirlScript) – Open Source Contributor
+- 🏅 **Appinventiv Scholarship Recipient** (₹55,000/year) 
 - 💻 Solved **100+ LeetCode problems** & completed a **43-Day Coding Challenge**  
 - 📜 Certified in:
   - Microsoft Student SOC Program (Cybersecurity)  
@@ -30,14 +30,7 @@
 ---
 
 ## 📂 Featured Projects
-
-### 📦 [ParcelPickup Platform](#)
-> *React.js | Node.js | Express.js | MongoDB*  
-- Peer-to-peer parcel delivery for campus communities  
-- Real-time tracking system & automated matching algorithm  
-- REST APIs for authentication, order management & notifications  
-
-### 🌐 [Personal Portfolio Website](#)
+### 🌐 [Personal Portfolio Website](#https://my-portfolio-abhishek.vercel.app/)
 > *HTML5 | CSS3 | JavaScript | GitHub API*  
 - Responsive portfolio showcasing skills & projects  
 - Live **LeetCode API** integration for coding stats  
