@@ -63,9 +63,8 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Abhishekhack2909)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektripathi317123&layout=compact&theme=tokyonight)  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekhack2909)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektripathi317123&layout=compact&theme=tokyonight)
 ---
 
 ## 🌍 Let's Connect
