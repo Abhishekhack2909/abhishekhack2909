@@ -25,13 +25,12 @@
 **Backend:** Node.js | Express.js  
 **Databases:** MongoDB | MySQL  
 **Tools:** Git | GitHub | Vercel | Postman | VS Code  
-**Specialties:** Responsive Web Design | REST APIs | UI/UX Principles | Automation  
-
+**Specialties:** Responsive Web Design | REST APIs | UI/UX Principles | Automation 
 ---
 
 ## 📂 Featured Projects
-### 🌐 [Personal Portfolio Website](#https://my-portfolio-abhishek.vercel.app/)
-> *HTML5 | CSS3 | JavaScript | GitHub API*  
+### 🌐 [Personal Portfolio Website](https://my-portfolio-abhishek.vercel.app/)
+> *HTML5 | CSS3 | JavaScript | Leetcode API*  
 - Responsive portfolio showcasing skills & projects  
 - Live **LeetCode API** integration for coding stats  
 - Smooth animations, dark/light mode & continuous deployment via Vercel  
