@@ -63,7 +63,7 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishektripathi317123&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Abhishekhack2909)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektripathi317123&layout=compact&theme=tokyonight)  
 
 ---
