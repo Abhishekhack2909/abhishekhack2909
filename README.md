@@ -35,12 +35,18 @@
 - Live **LeetCode API** integration for coding stats  
 - Smooth animations, dark/light mode & continuous deployment via Vercel  
 
-### 📱 [Teach Your Parents Smartphone](#)
+### 📱 [Teach Your Parents Smartphone](https://smartphone-teacher.vercel.app/)
 > *HTML5 | CSS3 | JavaScript*  
 - Web app with tutorials for elderly users on smartphone basics  
 - Accessibility-first design with large text, high contrast & voice-reader support  
-- Interactive guides for apps like WhatsApp & YouTube  
+- Interactive guides for apps like WhatsApp & YouTube
 
+### 📱 [TrueFeed](FireFox Extension)
+> *HTML5 | CSS3 | JavaScript|groq Api*  
+- Browser extension that filters LinkedIn content based on user preferences 
+- Customizable feed to hide irrelevant or “cringe” posts
+- Smart filtering powered by external growth API for personalized recommendations
+- Minimal UI with seamless integration into LinkedIn feed
 ---
 
 ## 💼 Experience
@@ -63,9 +69,9 @@
 ---
 
 ## 🌍 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/abhishek-tripathi)  
-- 🖥️ [GitHub](https://github.com/abhishektripathi317123)  
-- 🧑‍💻 [LeetCode](https://leetcode.com/abhishektripathi317123)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-tripathi-a714ab30b/)  
+- 🖥️ [GitHub](https://github.com/Abhishekhack2909)  
+- 🧑‍💻 [LeetCode](https://leetcode.com/u/binarybard29/)  
 - 📩 abhishektripathi317123@gmail.com  
 
 ---
